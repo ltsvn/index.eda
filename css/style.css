@@ -90,7 +90,7 @@
 .slide {
   border-radius: 20px;
   overflow: hidden;
-  min-height: 400px;
+  height: 400px;
   align-items: center;
   padding: 100px;
   position: relative;
